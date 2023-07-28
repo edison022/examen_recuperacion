@@ -1,0 +1,15 @@
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\bin\Debug\net7.0\Supletorio_Gomez.exe
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\bin\Debug\net7.0\Supletorio_Gomez.deps.json
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\bin\Debug\net7.0\Supletorio_Gomez.runtimeconfig.json
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\bin\Debug\net7.0\Supletorio_Gomez.dll
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\bin\Debug\net7.0\Supletorio_Gomez.pdb
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\Supletorio_Gomez.csproj.AssemblyReference.cache
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\Supletorio_Gomez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\Supletorio_Gomez.AssemblyInfoInputs.cache
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\Supletorio_Gomez.AssemblyInfo.cs
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\Supletorio_Gomez.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\Supletorio_Gomez.dll
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\refint\Supletorio_Gomez.dll
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\Supletorio_Gomez.pdb
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\Supletorio_Gomez.genruntimeconfig.cache
+C:\Users\CARLOS\Desktop\Supletorio_Gomez\obj\Debug\net7.0\ref\Supletorio_Gomez.dll
